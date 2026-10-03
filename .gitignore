@@ -4,3 +4,4 @@ resources/
 *.pyc
 __pycache__/
 .system_generated/
+.wrangler/
