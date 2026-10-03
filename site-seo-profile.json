@@ -1,0 +1,244 @@
+{
+  "profileVersion": "2026.1.0",
+  "domain": "https://tiziview.co",
+  "brandName": "梯子view",
+  "siteTitle": "梯子view - 2026新手机场推荐与科学上网梯子配置导航指南 | 即刻连通全球高速网络",
+  "siteDescription": "梯子view (tiziview.co) 专为新手小白打造的实时机场推荐与翻墙科学上网导航指南，主打即刻连接、现测可用与简单易用。提供高性价比稳定机场测速评测、主流客户端保姆级配置教程及自营专线透明入口。",
+  "siteTopic": "新手机场推荐、梯子测速评测与全平台科学上网客户端保姆级配置指南",
+  "primaryKeywords": [
+    "机场推荐",
+    "梯子推荐",
+    "魔法上网",
+    "机场评测",
+    "科学上网",
+    "翻墙机场",
+    "稳定机场推荐"
+  ],
+  "secondaryKeywords": [
+    "好用机场推荐",
+    "便宜机场推荐",
+    "4K流媒体翻墙",
+    "节点订阅转换",
+    "机场节点购买",
+    "外网梯子",
+    "免翻墙镜像",
+    "优质翻墙梯子"
+  ],
+  "longTailKeywords": [
+    "2026好用机场即刻测速",
+    "新手小白如何选择便宜好用机场",
+    "Clash Verge Rev新手保姆级导入教程",
+    "Mihomo Party订阅无法更新解决办法",
+    "Shadowrocket小火箭美区账号下载与节点配置",
+    "Sing-box跨平台新手配置规则",
+    "iPhone免费魔法上网工具测评",
+    "安卓手机如何科学上网看YouTube 4K",
+    "ChatGPT对原生IP节点要求与防封机场推荐",
+    "高性价比IEPL专线梯子合集"
+  ],
+  "heroKeywords": [
+    "梯子view机场即刻导航",
+    "新手翻墙梯子测速推荐",
+    "高性价比稳定机场订阅",
+    "一键配置魔法上网工具",
+    "自营高速专线节点服务"
+  ],
+  "heroSummaryText": "梯子view 机场即刻导航面向新手小白，提供 2026 实时翻墙梯子测速推荐与高性价比稳定机场订阅。覆盖便宜机场、4K流媒体解锁、一键配置魔法上网工具及自营高速专线节点服务，即刻助您连通全球高速网络。",
+  "footerKeywords": [
+    "梯子view 官方博客",
+    "专注小白的科学上网指南",
+    "翻墙梯子节点透明评测",
+    "跨平台客户端配置教程",
+    "安全隐私保护与自营节点售后保障"
+  ],
+  "footerSummaryParagraph1": "梯子view (tiziview.co) 官方博客专注小白的科学上网指南，持续提供 2026 翻墙梯子节点透明评测、高性价比稳定机场推荐、跨平台客户端配置教程与安全隐私保护，助您实现全设备极速平稳连接。",
+  "footerSummaryParagraph2": "本站所有评测与节点数据均定期人工实测核验。部分服务商包含合作推广邀请通道，所列套餐价格与优惠规则请以最终结算页为准。本站坚决倡导合法合规网络连接与学术外贸需求，拒绝任何违规用途。",
+  "navigationItems": [
+    {
+      "label": "首页",
+      "url": "/",
+      "type": "home",
+      "isContentSection": false,
+      "isCommercial": false,
+      "primaryKeyword": "机场推荐",
+      "supportingKeywords": [
+        "梯子推荐",
+        "魔法上网导航"
+      ],
+      "articleCount": 1
+    },
+    {
+      "label": "机场推荐榜",
+      "url": "/categories/airport-reviews/",
+      "type": "category",
+      "isContentSection": true,
+      "isCommercial": true,
+      "primaryKeyword": "优质机场推荐",
+      "supportingKeywords": [
+        "稳定便宜梯子",
+        "节点评测",
+        "4K流媒体翻墙"
+      ],
+      "articleCount": 15
+    },
+    {
+      "label": "全部机场测评",
+      "url": "/providers/",
+      "type": "collection",
+      "isContentSection": true,
+      "isCommercial": true,
+      "primaryKeyword": "全部机场测评",
+      "supportingKeywords": [
+        "2026翻墙梯子测评",
+        "27家机场测速",
+        "机场独立评测"
+      ],
+      "articleCount": 27
+    },
+    {
+      "label": "Windows教程",
+      "url": "/categories/windows/",
+      "type": "category",
+      "isContentSection": true,
+      "isCommercial": false,
+      "primaryKeyword": "Windows翻墙教程",
+      "supportingKeywords": [
+        "Clash Verge Rev",
+        "Mihomo Party",
+        "v2rayN配置教程"
+      ],
+      "articleCount": 8
+    },
+    {
+      "label": "Mac教程",
+      "url": "/categories/mac/",
+      "type": "category",
+      "isContentSection": true,
+      "isCommercial": false,
+      "primaryKeyword": "Mac翻墙客户端",
+      "supportingKeywords": [
+        "Clash Verge Mac配置",
+        "Sing-box Mac",
+        "Mihomo Mac"
+      ],
+      "articleCount": 6
+    },
+    {
+      "label": "iOS教程",
+      "url": "/categories/ios/",
+      "type": "category",
+      "isContentSection": true,
+      "isCommercial": false,
+      "primaryKeyword": "iOS魔法上网",
+      "supportingKeywords": [
+        "Shadowrocket小火箭配置",
+        "Loon",
+        "Quantumult X"
+      ],
+      "articleCount": 8
+    },
+    {
+      "label": "Android教程",
+      "url": "/categories/android/",
+      "type": "category",
+      "isContentSection": true,
+      "isCommercial": false,
+      "primaryKeyword": "安卓梯子客户端",
+      "supportingKeywords": [
+        "Clash Meta for Android",
+        "v2rayNG",
+        "Sing-box Android"
+      ],
+      "articleCount": 6
+    },
+    {
+      "label": "常见问题与踩坑",
+      "url": "/categories/faq/",
+      "type": "category",
+      "isContentSection": true,
+      "isCommercial": false,
+      "primaryKeyword": "机场常见问题",
+      "supportingKeywords": [
+        "节点超时解决",
+        "订阅转换失败",
+        "节点防封策略"
+      ],
+      "articleCount": 10
+    },
+    {
+      "label": "自营精选服务",
+      "url": "/services/",
+      "type": "page",
+      "isContentSection": false,
+      "isCommercial": true,
+      "primaryKeyword": "自营高速专线机场",
+      "supportingKeywords": [
+        "独享IP",
+        "翻墙保障通道",
+        "IEPL专线"
+      ],
+      "articleCount": 1
+    }
+  ],
+  "faqKeywordCount": 100,
+  "faqClusters": [
+    {
+      "name": "机场推荐与适用场景",
+      "quota": 18
+    },
+    {
+      "name": "Clash与Mihomo客户端配置",
+      "quota": 14
+    },
+    {
+      "name": "Shadowsocks与SS基础协议",
+      "quota": 10
+    },
+    {
+      "name": "Trojan与新兴协议解析",
+      "quota": 10
+    },
+    {
+      "name": "梯子口语化搜索与风险规避",
+      "quota": 8
+    },
+    {
+      "name": "节点线路倍率与4K延迟排查",
+      "quota": 14
+    },
+    {
+      "name": "套餐价格与优惠订阅购买",
+      "quota": 10
+    },
+    {
+      "name": "跨平台多设备兼容与订阅更新",
+      "quota": 8
+    },
+    {
+      "name": "流媒体ChatGPT解锁与安全防封",
+      "quota": 8
+    }
+  ],
+  "faqPageSize": 20,
+  "titlePatterns": {
+    "home": "梯子view - 2026新手机场推荐与科学上网梯子配置导航指南 | 即刻连通全球高速网络",
+    "category": "{categoryName} - 梯子view 2026新手科学上网与节点指南",
+    "single": "{title} | 梯子view",
+    "provider": "{name}测评：2026最新价格套餐与新手购买指南 | 梯子view"
+  },
+  "descriptionPatterns": {
+    "home": "梯子view 专为新手打造的 2026 实时机场推荐与科学上网导航指南，提供高性价比稳定机场测速评测、主流客户端跨平台保姆级配置教程及自营专线透明入口。",
+    "category": "梯子view {categoryName}栏目为您提供系统化的配置教程、避坑指南与节点评测，助您轻松搞定科学上网。",
+    "single": "{summary}",
+    "provider": "{name}怎么样？本站为您提供{name}的实时测速评测、最新价格套餐、可用优惠码、节点线路与客户端导入教程。"
+  },
+  "protectedBrandTerms": [
+    "梯子view",
+    "全球云",
+    "飞猫云",
+    "暮光加速",
+    "微风网络"
+  ],
+  "inactiveKeywords": [],
+  "sourceUpdatedAt": "2026-09-22"
+}

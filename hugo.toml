@@ -1,0 +1,79 @@
+baseURL = "https://tiziview.co/"
+languageCode = "zh-CN"
+title = "梯子view - 2026新手机场推荐与科学上网梯子配置导航指南 | 即刻连通全球高速网络"
+theme = "anatole"
+hasCJKLanguage = true
+enableRobotsTXT = true
+summaryLength = 120
+
+[pagination]
+pagerSize = 10
+
+[params]
+title = "梯子view"
+author = "梯子view 评测团队"
+description = "梯子view 专为新手小白打造的实时机场推荐与翻墙科学上网导航指南，主打即刻连接、现测可用与简单易用。"
+profileMode = "true"
+siteTopic = "面向新手小白的实时机场推荐与翻墙科学上网导航指南"
+lead = "即刻连接 · 现测可用 · 简单易用"
+favicon = "/images/favicon.ico"
+avatar = "/images/avatar.svg"
+mainSections = ["categories", "providers", "faq", "guides", "services"]
+
+[params.sidebar]
+showDescription = true
+showQuickNav = true
+showPromoCard = true
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+[menu]
+[[menu.main]]
+identifier = "home"
+name = "首页"
+url = "/"
+weight = 1
+
+[[menu.main]]
+identifier = "airport-reviews"
+name = "机场推荐榜"
+url = "/categories/airport-reviews/"
+weight = 2
+
+[[menu.main]]
+identifier = "windows"
+name = "Windows教程"
+url = "/categories/windows/"
+weight = 3
+
+[[menu.main]]
+identifier = "mac"
+name = "Mac教程"
+url = "/categories/mac/"
+weight = 4
+
+[[menu.main]]
+identifier = "ios"
+name = "iOS教程"
+url = "/categories/ios/"
+weight = 5
+
+[[menu.main]]
+identifier = "android"
+name = "Android教程"
+url = "/categories/android/"
+weight = 6
+
+[[menu.main]]
+identifier = "faq"
+name = "常见问题与踩坑"
+url = "/categories/faq/"
+weight = 7
+
+[[menu.main]]
+identifier = "services"
+name = "自营精选服务"
+url = "/services/"
+weight = 8

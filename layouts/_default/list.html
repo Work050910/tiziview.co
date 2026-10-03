@@ -1,0 +1,22 @@
+{{ define "main" }}
+<div class="category-header" style="margin-bottom: 2rem;">
+  <h1 class="page-title">{{ .Title }}</h1>
+  <p style="font-size: 1.05rem; color: #475569; line-height: 1.7;">{{ with .Description }}{{ . }}{{ else }}梯子view 为您精心准备的深度教程与测评指南，助您零基础快速上手科学上网。{{ end }}</p>
+</div>
+
+{{ partial "promo-card.html" . }}
+
+<div class="posts-list">
+  {{ range .Pages }}
+  <div class="post-card">
+    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+    <p class="post-card-summary">{{ .Summary | plainify | truncate 130 }}</p>
+    <div class="article-meta" style="margin-top: 0.5rem;">
+      <span>📅 {{ .Date.Format "2006-01-02" }}</span>
+      <span>⏱️ {{ .ReadingTime }} 分钟阅读</span>
+      <a href="{{ .Permalink }}" style="margin-left: auto; font-weight: 600;">阅读全文 &rarr;</a>
+    </div>
+  </div>
+  {{ end }}
+</div>
+{{ end }}

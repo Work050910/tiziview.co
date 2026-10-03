@@ -1,0 +1,1326 @@
+[
+  {
+    "rank": 1,
+    "isPrimary": true,
+    "name": "全球云",
+    "slug": "quanqiu-cloud",
+    "inviteURL": "https://hueue09.gcvipaff.com/#/?code=z8U9aaa4",
+    "ctaText": "使用优惠码查看当前套餐",
+    "featuredPlacements": [
+      "home",
+      "recommendations",
+      "comparison",
+      "sidebar",
+      "contextual"
+    ],
+    "trackingLabel": "quanqiu-cloud",
+    "coupon": "qq88",
+    "couponNote": "享 8 折优惠，适用套餐以结算页为准",
+    "priceFrom": "20 元/月",
+    "trafficFrom": "120GB/月",
+    "billingPeriod": "月付 / 季付 / 年付",
+    "suitableFor": "多地区节点、跨境业务、短视频与多出口 IP 使用场景",
+    "summary": "优势在多国家与地区原生 IP 节点、智能分流和较灵活的计费思路，内容场景可突出 TikTok、YouTube 与跨境业务所需的多出口 IP。适合经常切换区域、兼顾短视频和外贸工作的用户。",
+    "packages": [
+      {
+        "name": "轻量版",
+        "price": "20 元/月",
+        "traffic": "120GB/月"
+      },
+      {
+        "name": "进阶版",
+        "price": "40 元/月",
+        "traffic": "300GB/月"
+      },
+      {
+        "name": "重度版",
+        "price": "100 元/月",
+        "traffic": "700GB/月"
+      },
+      {
+        "name": "大户版",
+        "price": "180 元/月",
+        "traffic": "1500GB/月"
+      },
+      {
+        "name": "轻量年付",
+        "price": "99 元/年",
+        "traffic": "59GB"
+      },
+      {
+        "name": "一次性100G",
+        "price": "100 元",
+        "traffic": "100GB 不限时"
+      },
+      {
+        "name": "一次性400G",
+        "price": "360 元",
+        "traffic": "400GB 不限时"
+      },
+      {
+        "name": "一次性800G",
+        "price": "700 元",
+        "traffic": "800GB 不限时"
+      },
+      {
+        "name": "私人专线",
+        "price": "680 元/月",
+        "traffic": "500GB/月 独享"
+      }
+    ],
+    "sourceLevel": "用户资料与整理记录",
+    "lastChecked": "2026-09-19",
+    "verificationNote": "结算时输入 qq88 可享 8 折；适用套餐、有效期及能否与活动价叠加以结算页为准。"
+  },
+  {
+    "rank": 2,
+    "isPrimary": true,
+    "name": "飞猫云",
+    "slug": "flycat-cloud",
+    "inviteURL": "https://quanqiu.flycatvipaff.cc/#/?code=7ZOeVmNS",
+    "ctaText": "使用优惠码查看当前套餐",
+    "featuredPlacements": [
+      "home",
+      "recommendations",
+      "comparison",
+      "sidebar",
+      "contextual"
+    ],
+    "trackingLabel": "flycat-cloud",
+    "coupon": "flycat888",
+    "couponNote": "新用户购买季付及以上 8 折",
+    "priceFrom": "84 元/年 (折合 7元/月)",
+    "displayEquivalent": "折合 7 元/月",
+    "trafficFrom": "50GB/月",
+    "billingPeriod": "年付 / 月付",
+    "suitableFor": "轻量备用、香港线路需求、多设备家庭和新手客户端",
+    "summary": "低价小流量配 IEPL 专线是最醒目的组合。晚高峰实测显示香港节点表现较稳，同时提供自研极简客户端并支持主流流媒体与 AI 解锁；适合轻量备用、主用香港或多设备家庭。",
+    "packages": [
+      {
+        "name": "学生版年付",
+        "price": "84 元/年 (折合 7元/月)",
+        "traffic": "50GB/月"
+      },
+      {
+        "name": "星耀版月付",
+        "price": "25 元/月",
+        "traffic": "150GB/月"
+      }
+    ],
+    "sourceLevel": "用户资料与公开记录",
+    "lastChecked": "2026-09-19",
+    "verificationNote": "新用户购买季付及以上套餐时输入 flycat888 可享 8 折，适用范围以结算页为准。"
+  },
+  {
+    "rank": 3,
+    "isPrimary": true,
+    "name": "暮光加速",
+    "slug": "twilight",
+    "inviteURL": "https://quanqi12.twilightaff.com/#/?code=beAVqNPf",
+    "ctaText": "使用优惠码查看当前套餐",
+    "featuredPlacements": [
+      "home",
+      "recommendations",
+      "comparison",
+      "sidebar",
+      "contextual"
+    ],
+    "trackingLabel": "twilight",
+    "coupon": "mm88",
+    "couponNote": "享 8 折优惠，适用套餐以结算页为准",
+    "priceFrom": "20 元/月",
+    "trafficFrom": "120GB/月",
+    "billingPeriod": "月付 / 季付 / 年付 / 不限时",
+    "suitableFor": "晚高峰影音、较大流量和多媒体使用场景",
+    "summary": "晚高峰观看 YouTube 4K 视频依然流畅，下载视频可跑满带宽；同时突出多媒体全面解锁，以及 ChatGPT 等 AI 工具的可用性，适合重视高峰期影音体验的用户。",
+    "packages": [
+      {
+        "name": "基础版",
+        "price": "20 元/月 (57元/季)",
+        "traffic": "120GB/月"
+      },
+      {
+        "name": "标准版",
+        "price": "40 元/月 (114元/季)",
+        "traffic": "300GB/月"
+      },
+      {
+        "name": "旗舰版",
+        "price": "100 元/月 (285元/季)",
+        "traffic": "700GB/月"
+      },
+      {
+        "name": "至尊版",
+        "price": "180 元/月 (513元/季)",
+        "traffic": "1.5TB/月"
+      },
+      {
+        "name": "年付轻量版",
+        "price": "109 元/年",
+        "traffic": "70GB/年"
+      },
+      {
+        "name": "一次性150G",
+        "price": "219 元",
+        "traffic": "150GB 不限时"
+      },
+      {
+        "name": "一次性400G",
+        "price": "529 元",
+        "traffic": "400GB 不限时"
+      },
+      {
+        "name": "一次性800G",
+        "price": "959 元",
+        "traffic": "800GB 不限时"
+      }
+    ],
+    "sourceLevel": "用户资料与整理记录",
+    "lastChecked": "2026-09-19",
+    "verificationNote": "结算时输入 mm88 可享 8 折；适用套餐与有效期以结算页为准。"
+  },
+  {
+    "rank": 4,
+    "isPrimary": true,
+    "name": "微风网络",
+    "alternateName": "BreezeNet",
+    "slug": "breezenet",
+    "inviteURL": "https://edp01.breezenetaff.com/#/?code=vxDUI8kY",
+    "ctaText": "查看当前套餐与价格",
+    "featuredPlacements": [
+      "home",
+      "recommendations",
+      "comparison",
+      "sidebar",
+      "contextual"
+    ],
+    "trackingLabel": "breezenet",
+    "coupon": "wfwl88",
+    "priceFrom": "16 元/月",
+    "trafficFrom": "100GB/月",
+    "billingPeriod": "月付 / 年付",
+    "suitableFor": "轻度使用、低流量年付、自研客户端和第三方订阅导入",
+    "summary": "定位为轻量 IEPL 专线方案，重点是低流量年付、自研客户端与第三方订阅导入。适合将它视为轻度使用候选，并先在结算页确认实际流量与付款周期。",
+    "packages": [
+      {
+        "name": "轻量月付",
+        "price": "16 元/月",
+        "traffic": "100GB/月"
+      },
+      {
+        "name": "优选年付",
+        "price": "137 元/年",
+        "traffic": "100GB/月"
+      }
+    ],
+    "sourceLevel": "多个公开记录，数据存在冲突",
+    "lastChecked": "2026-09-19",
+    "verificationNote": "发布前在邀请页确认当前最低档、流量重置方式、季付及以上优惠、设备数与客户端支持。",
+    "couponNote": "专属券码 wfwl88，结算享专属折扣优惠"
+  },
+  {
+    "rank": 5,
+    "isPrimary": false,
+    "name": "U1S1",
+    "slug": "u1s1",
+    "inviteURL": "https://quanqiu.v2yunvipaff.com/#/?code=YCf9VJsS",
+    "ctaText": "查看当前套餐与价格",
+    "featuredPlacements": [
+      "providers",
+      "recommendations"
+    ],
+    "trackingLabel": "u1s1",
+    "coupon": "u1s188",
+    "couponNote": "以服务商当前官网结算页公示为准",
+    "priceFrom": "20 元/月",
+    "trafficFrom": "120GB/月",
+    "billingPeriod": "月付 / 年付",
+    "suitableFor": "稳定标注清楚、中转优化、原生 IP 解锁与长期自用场景",
+    "summary": "定位偏向“稳定、标注清楚”的长期自用方案。强调中转优化、原生 IP 解锁与明确的流量档位，更适合在意实际可用性、又不想研究复杂配置的用户。",
+    "packages": [
+      {
+        "name": "基础体验版",
+        "price": "20 元/月",
+        "traffic": "120GB/月"
+      },
+      {
+        "name": "日常影音版",
+        "price": "40 元/月",
+        "traffic": "300GB/月"
+      },
+      {
+        "name": "重度冲浪版",
+        "price": "100 元/月",
+        "traffic": "700GB/月"
+      },
+      {
+        "name": "尊享大户版",
+        "price": "180 元/月",
+        "traffic": "1500GB/月"
+      },
+      {
+        "name": "一次性流量包",
+        "price": "580 元",
+        "traffic": "1000GB 不限时"
+      }
+    ],
+    "sourceLevel": "用户资料与公开记录",
+    "lastChecked": "2026-09-19",
+    "verificationNote": "套餐名称与价格发布前需在结算页确认流量重置、设备数和库存。"
+  },
+  {
+    "rank": 6,
+    "isPrimary": false,
+    "name": "极连云",
+    "slug": "jilian-cloud",
+    "inviteURL": "https://quanqiu.jlyvipaff.com/#/?code=NplcUEEV",
+    "ctaText": "查看当前套餐与价格",
+    "featuredPlacements": [
+      "providers",
+      "recommendations"
+    ],
+    "trackingLabel": "jilian-cloud",
+    "coupon": "jly88",
+    "couponNote": "以服务商当前官网结算页公示为准",
+    "priceFrom": "15.5 元/月",
+    "trafficFrom": "100GB/月",
+    "billingPeriod": "月付 / 年付",
+    "suitableFor": "IPLC 内网专线、抗封锁、防 QoS 及日韩低延迟场景",
+    "summary": "主打 IPLC 内网专线的连通稳定性，重点突出抗封锁、防 QoS，以及香港、日本方向的低延迟体验；对敏感时期仍需保持连接、同时使用 AI 与流媒体的用户更有吸引力。",
+    "packages": [
+      {
+        "name": "轻量体验年付",
+        "price": "96 元/年 (折合 8元/月)",
+        "traffic": "60GB/月"
+      },
+      {
+        "name": "基础版月付",
+        "price": "15.5 元/月",
+        "traffic": "100GB/月"
+      },
+      {
+        "name": "进阶版月付",
+        "price": "30.5 元/月",
+        "traffic": "200GB/月"
+      },
+      {
+        "name": "旗舰版月付",
+        "price": "65.5 元/月",
+        "traffic": "500GB/月"
+      },
+      {
+        "name": "尊享版月付",
+        "price": "120.5 元/月",
+        "traffic": "1000GB/月"
+      },
+      {
+        "name": "一次性流量包",
+        "price": "399 元",
+        "traffic": "1000GB 不限时"
+      }
+    ],
+    "sourceLevel": "用户资料与公开记录",
+    "lastChecked": "2026-09-19",
+    "verificationNote": "年付折算价不等于月付门槛；专线覆盖、流量倍率和长期套餐规则以结算页为准。"
+  },
+  {
+    "rank": 7,
+    "isPrimary": false,
+    "name": "光年梯",
+    "slug": "guangnian-ladder",
+    "inviteURL": "https://quanqiu.gntaff.com/#/?code=qUJeOegs",
+    "ctaText": "查看当前套餐与价格",
+    "featuredPlacements": [
+      "providers",
+      "recommendations"
+    ],
+    "trackingLabel": "guangnian-ladder",
+    "coupon": "gnt88",
+    "couponNote": "以服务商当前官网结算页公示为准",
+    "priceFrom": "18 元/月",
+    "trafficFrom": "110GB/月",
+    "billingPeriod": "月付 / 年付",
+    "suitableFor": "新手一键导入、三网线路优化、ChatGPT 常用访问场景",
+    "summary": "把易用性放在前面，强调客户端一键导入、三网线路优化和清晰的套餐档位。更适合作为新手第一次接触机场时的轻量选择，并兼顾 ChatGPT 等常用服务的访问需求。",
+    "packages": [
+      {
+        "name": "入门版",
+        "price": "18 元/月",
+        "traffic": "110GB/月"
+      },
+      {
+        "name": "晋级版",
+        "price": "34 元/月",
+        "traffic": "220GB/月"
+      },
+      {
+        "name": "专业版",
+        "price": "68 元/月",
+        "traffic": "450GB/月"
+      },
+      {
+        "name": "至尊版",
+        "price": "130 元/月",
+        "traffic": "900GB/月"
+      },
+      {
+        "name": "私人专线独享",
+        "price": "680 元/月",
+        "traffic": "500GB/月"
+      }
+    ],
+    "sourceLevel": "用户资料与公开记录",
+    "lastChecked": "2026-09-19",
+    "verificationNote": "结算时确认各周期折扣、订阅导入方式及独享节点交付标准。"
+  },
+  {
+    "rank": 8,
+    "isPrimary": false,
+    "name": "光速云",
+    "slug": "guangsu-cloud",
+    "inviteURL": "https://quanqiu.gsyaff.com/#/?code=AAkbe2W6",
+    "ctaText": "查看当前套餐与价格",
+    "featuredPlacements": [
+      "providers",
+      "recommendations"
+    ],
+    "trackingLabel": "guangsu-cloud",
+    "coupon": "gsy88",
+    "couponNote": "以服务商当前官网结算页公示为准",
+    "priceFrom": "17 元/月",
+    "trafficFrom": "110GB/月",
+    "billingPeriod": "月付 / 年付",
+    "suitableFor": "BGP 入口低延迟中转、网页与即时通信轻度游戏日常场景",
+    "summary": "核心叙事是 BGP 入口与低延迟中转，兼顾三网接入和客户端快速导入。相较单纯堆流量，更适合网页、即时通信及轻度游戏等对响应速度更敏感的日常场景。",
+    "packages": [
+      {
+        "name": "轻量年付",
+        "price": "99 元/年 (折合 8.25元/月)",
+        "traffic": "59GB/月"
+      },
+      {
+        "name": "极速版月付",
+        "price": "17 元/月",
+        "traffic": "110GB/月"
+      },
+      {
+        "name": "流光版月付",
+        "price": "34 元/月",
+        "traffic": "220GB/月"
+      },
+      {
+        "name": "量子版月付",
+        "price": "68 元/月",
+        "traffic": "450GB/月"
+      },
+      {
+        "name": "无界版月付",
+        "price": "130 元/月",
+        "traffic": "900GB/月"
+      },
+      {
+        "name": "一次性流量包",
+        "price": "680 元",
+        "traffic": "1000GB 不限时"
+      }
+    ],
+    "sourceLevel": "用户资料与公开记录",
+    "lastChecked": "2026-09-19",
+    "verificationNote": "最低价格字段按常规月付口径；年付与不限时套餐的流量重置及有效期以结算页为准。"
+  },
+  {
+    "rank": 9,
+    "isPrimary": false,
+    "name": "唯兔云",
+    "slug": "weitu-cloud",
+    "inviteURL": "https://quanqiu.vipaff.cc/#/?code=c4sOJBXE",
+    "ctaText": "查看当前套餐与价格",
+    "featuredPlacements": [
+      "providers",
+      "recommendations"
+    ],
+    "trackingLabel": "weitu-cloud",
+    "coupon": "wty88",
+    "couponNote": "以服务商当前官网结算页公示为准",
+    "priceFrom": "14.9 元/月",
+    "trafficFrom": "100GB/月",
+    "billingPeriod": "月付 / 年付",
+    "suitableFor": "VLESS 协议、60+ 节点多地区三网智能负载均衡进阶场景",
+    "summary": "采用 VLESS 作为主要协议卖点，并强调 60+ 节点、三网优化与智能负载均衡。节点选择空间和自动调度能力是其差异点，适合希望减少手动换线频率的进阶用户。",
+    "packages": [
+      {
+        "name": "入门年付",
+        "price": "79.9 元/年 (折合 6.66元/月)",
+        "traffic": "45GB/月"
+      },
+      {
+        "name": "基础版",
+        "price": "14.9 元/月 (142.9元/年)",
+        "traffic": "100GB/月"
+      },
+      {
+        "name": "进阶版",
+        "price": "29.9 元/月 (286.9元/年)",
+        "traffic": "200GB/月"
+      },
+      {
+        "name": "高级版",
+        "price": "59.9 元/月 (547.9元/年)",
+        "traffic": "500GB/月"
+      },
+      {
+        "name": "尊享版",
+        "price": "119.9 元/月 (1150.9元/年)",
+        "traffic": "1000GB/月"
+      },
+      {
+        "name": "一次性流量包",
+        "price": "340 元",
+        "traffic": "500GB 不限时"
+      }
+    ],
+    "sourceLevel": "用户资料与公开记录",
+    "lastChecked": "2026-09-19",
+    "verificationNote": "购买前核对有效期、节点负载调度策略与账户规则。"
+  },
+  {
+    "rank": 10,
+    "isPrimary": false,
+    "name": "宇宙云",
+    "slug": "yuzhou-cloud",
+    "inviteURL": "https://quanqiu.yuzoucloud.cc/#/?code=f3DHb9Gj",
+    "ctaText": "查看当前套餐与价格",
+    "featuredPlacements": [
+      "providers",
+      "recommendations"
+    ],
+    "trackingLabel": "yuzhou-cloud",
+    "coupon": "yzy88",
+    "couponNote": "以服务商当前官网结算页公示为准",
+    "priceFrom": "14.9 元/月",
+    "trafficFrom": "100GB/月",
+    "billingPeriod": "月付 / 年付",
+    "suitableFor": "多地区覆盖、大流量性价比、多国节点低成本切换场景",
+    "summary": "走“多地区覆盖 + 大流量性价比”路线，提到三网接入优化和主流客户端订阅导入。适合经常切换不同国家或地区节点、又希望控制月度成本的用户。",
+    "packages": [
+      {
+        "name": "公开入门档",
+        "price": "14.9 元/月",
+        "traffic": "100GB/月"
+      },
+      {
+        "name": "专线大流量档",
+        "price": "以结算页为准",
+        "traffic": "覆盖70+节点阶梯梯度"
+      }
+    ],
+    "sourceLevel": "用户资料与公开记录",
+    "lastChecked": "2026-09-19",
+    "verificationNote": "需在邀请页确认节点地区、流量倍率、设备数、续费和退款规则。"
+  },
+  {
+    "rank": 11,
+    "isPrimary": false,
+    "name": "速界",
+    "slug": "sujie",
+    "inviteURL": "https://quanqiu.speedworldaff.cc/#/?code=kY825Zat",
+    "ctaText": "查看当前套餐与价格",
+    "featuredPlacements": [
+      "providers",
+      "recommendations"
+    ],
+    "trackingLabel": "sujie",
+    "coupon": "sj88",
+    "couponNote": "以服务商当前官网结算页公示为准",
+    "priceFrom": "25 元/月",
+    "trafficFrom": "150GB/月",
+    "billingPeriod": "月付 / 年付",
+    "suitableFor": "IPLC 专线晚高峰承载、低延迟与 4K/8K 流媒体高码率场景",
+    "summary": "卖点集中在高带宽 IPLC 专线和晚高峰承载，宣传方向覆盖低延迟与 4K/8K 流媒体。更适合对高峰时段速度、高清播放和大流量传输要求较高的重度用户。",
+    "packages": [
+      {
+        "name": "极速版",
+        "price": "25 元/月 (255元/年)",
+        "traffic": "150GB/月"
+      },
+      {
+        "name": "超速版",
+        "price": "50 元/月 (510元/年)",
+        "traffic": "高阶流量档"
+      },
+      {
+        "name": "光速版",
+        "price": "100 元/月 (1020元/年)",
+        "traffic": "超大流量档"
+      },
+      {
+        "name": "跃迁版",
+        "price": "200 元/月 (2040元/年)",
+        "traffic": "旗舰流量档"
+      },
+      {
+        "name": "年付体验包",
+        "price": "88 元/年",
+        "traffic": "轻量测试流量"
+      }
+    ],
+    "sourceLevel": "用户资料与公开记录",
+    "lastChecked": "2026-09-19",
+    "verificationNote": "下单前确认当前优惠活动、各周期折扣及流量重置规则。"
+  },
+  {
+    "rank": 12,
+    "isPrimary": false,
+    "name": "SOGO 云",
+    "slug": "sogo-cloud",
+    "inviteURL": "https://afasfw.sogotztz2.sbs/#/?code=Mgoqf6KP",
+    "ctaText": "查看当前套餐与价格",
+    "featuredPlacements": [
+      "providers",
+      "recommendations"
+    ],
+    "trackingLabel": "sogo-cloud",
+    "coupon": "sgy88",
+    "couponNote": "以服务商当前官网结算页公示为准",
+    "priceFrom": "20 元/月",
+    "trafficFrom": "120GB/月",
+    "billingPeriod": "月付 / 年付",
+    "suitableFor": "全球节点、家庭或小团队多设备并发、4K 影音与 AI 协作",
+    "summary": "突出全球节点、专线优化和多设备使用，套餐从较大的月流量起步。聚焦家庭或小团队的多端并发，以及 4K 流媒体和 AI 工具同时使用的便利性。",
+    "packages": [
+      {
+        "name": "活动入门档",
+        "price": "20 元/月 (常规25元)",
+        "traffic": "120GB/月"
+      },
+      {
+        "name": "优选版",
+        "price": "50 元/月",
+        "traffic": "250GB/月"
+      },
+      {
+        "name": "强化版",
+        "price": "100 元/月",
+        "traffic": "500GB/月"
+      },
+      {
+        "name": "顶配版",
+        "price": "200 元/月",
+        "traffic": "1000GB/月"
+      },
+      {
+        "name": "一次性100G",
+        "price": "100 元",
+        "traffic": "100GB 不限时"
+      },
+      {
+        "name": "一次性250G",
+        "price": "200 元",
+        "traffic": "250GB 不限时"
+      },
+      {
+        "name": "一次性500G",
+        "price": "400 元",
+        "traffic": "500GB 不限时"
+      },
+      {
+        "name": "一次性1000G",
+        "price": "800 元",
+        "traffic": "1000GB 不限时"
+      }
+    ],
+    "sourceLevel": "用户资料与公开记录",
+    "lastChecked": "2026-09-19",
+    "verificationNote": "活动价可能随时调整，多设备和同时在线规则应在下单前确认。"
+  },
+  {
+    "rank": 13,
+    "isPrimary": false,
+    "name": "快狸",
+    "slug": "kaili",
+    "inviteURL": "https://quanqiu.kuailicloud.cc/#/?code=vuYET5Qj",
+    "ctaText": "查看当前套餐与价格",
+    "featuredPlacements": [
+      "providers",
+      "recommendations"
+    ],
+    "trackingLabel": "kaili",
+    "coupon": "kl88",
+    "couponNote": "以服务商当前官网结算页公示为准",
+    "priceFrom": "18.5 元/月",
+    "trafficFrom": "100GB/月",
+    "billingPeriod": "月付 / 年付",
+    "suitableFor": "备用节点、流媒体解锁及多协议客户端测试",
+    "summary": "简洁小巧的备用节点池，支持微信与支付宝便捷订阅。所有套餐与节点可用率请以官方结算页实时状态为准。",
+    "packages": [
+      {
+        "name": "基础版",
+        "price": "18.5 元/月",
+        "traffic": "100GB/月"
+      },
+      {
+        "name": "进阶版",
+        "price": "36 元/月",
+        "traffic": "220GB/月"
+      }
+    ],
+    "sourceLevel": "用户资料与公开记录",
+    "lastChecked": "2026-09-19",
+    "verificationNote": "建议购买前核对结算页可用节点及退款政策"
+  },
+  {
+    "rank": 14,
+    "isPrimary": false,
+    "name": "二猫云",
+    "slug": "ermao-cloud",
+    "inviteURL": "https://quanqiu.2maoyunaff.cc/#/?code=zy39Ip8E",
+    "ctaText": "查看当前套餐与价格",
+    "featuredPlacements": [
+      "providers",
+      "recommendations"
+    ],
+    "trackingLabel": "ermao-cloud",
+    "coupon": "emy88",
+    "couponNote": "以服务商当前官网结算页公示为准",
+    "priceFrom": "20 元/月",
+    "trafficFrom": "100GB/月",
+    "billingPeriod": "月付 / 年付",
+    "suitableFor": "中转专线混合、原生 IP 流媒体解锁、追剧与常规海外服务",
+    "summary": "以“中转 + 专线”的混合线路平衡成本和稳定性，并把原生 IP、流媒体解锁与较大月流量作为组合亮点。适合预算适中、主要需求是追剧和常规海外服务的用户。",
+    "packages": [
+      {
+        "name": "白猫套餐",
+        "price": "20 元/月",
+        "traffic": "100GB/月"
+      },
+      {
+        "name": "橘猫畅玩版",
+        "price": "40 元/月",
+        "traffic": "200GB/月"
+      },
+      {
+        "name": "牛奶猫尊享版",
+        "price": "80 元/月",
+        "traffic": "400GB/月"
+      },
+      {
+        "name": "黑猫无限版",
+        "price": "160 元/月",
+        "traffic": "800GB/月"
+      }
+    ],
+    "sourceLevel": "用户资料与公开记录",
+    "lastChecked": "2026-09-19",
+    "verificationNote": "暂无一次性不限时订阅；线路构成和客户端限制以官方公告为准。"
+  },
+  {
+    "rank": 15,
+    "isPrimary": false,
+    "name": "一翻云",
+    "slug": "yifan-cloud",
+    "inviteURL": "https://quanqiu.1flyunaff.cc/#/?code=gJtw80i4",
+    "ctaText": "查看当前套餐与价格",
+    "featuredPlacements": [
+      "providers",
+      "recommendations"
+    ],
+    "trackingLabel": "yifan-cloud",
+    "coupon": "yfy88",
+    "couponNote": "以服务商当前官网结算页公示为准",
+    "priceFrom": "16.8 元/月",
+    "trafficFrom": "120GB/月",
+    "billingPeriod": "月付 / 年付",
+    "suitableFor": "备用节点、流媒体解锁及多协议客户端测试",
+    "summary": "入门级翻墙梯子服务，提供直观的网页端节点状态测速。所有套餐与节点可用率请以官方结算页实时状态为准。",
+    "packages": [
+      {
+        "name": "轻量版",
+        "price": "16.8 元/月",
+        "traffic": "120GB/月"
+      },
+      {
+        "name": "畅享版",
+        "price": "32 元/月",
+        "traffic": "260GB/月"
+      }
+    ],
+    "sourceLevel": "用户资料与公开记录",
+    "lastChecked": "2026-09-19",
+    "verificationNote": "建议购买前核对结算页可用节点及退款政策"
+  },
+  {
+    "rank": 16,
+    "isPrimary": false,
+    "name": "边缘节点 EdgeNova",
+    "slug": "edgenova",
+    "inviteURL": "https://quanqi.edgenovaaff.cc/#/?code=8BBARdHw",
+    "ctaText": "查看当前套餐与价格",
+    "featuredPlacements": [
+      "providers",
+      "recommendations"
+    ],
+    "trackingLabel": "edgenova",
+    "coupon": "byjd88",
+    "couponNote": "以服务商当前官网结算页公示为准",
+    "priceFrom": "25 元/月",
+    "trafficFrom": "120GB/月",
+    "billingPeriod": "月付 / 年付",
+    "suitableFor": "海外团队运营、Reality 协议、外服游戏与 AI 原生落地场景",
+    "summary": "海外团队运营和 Reality 协议是主要辨识度，配合原生 IP 节点，使用场景偏向外服与 AI 工具。对能接受较技术化配置、看重抗封锁与落地 IP 属性的用户更合适。",
+    "packages": [
+      {
+        "name": "年付入门",
+        "price": "108 元/年 (折合 9元/月)",
+        "traffic": "45GB/月"
+      },
+      {
+        "name": "标准版月付",
+        "price": "25 元/月",
+        "traffic": "120GB/月"
+      },
+      {
+        "name": "进阶版月付",
+        "price": "50 元/月",
+        "traffic": "250GB/月"
+      },
+      {
+        "name": "高级版月付",
+        "price": "100 元/月",
+        "traffic": "500GB/月"
+      },
+      {
+        "name": "极限版月付",
+        "price": "200 元/月",
+        "traffic": "1000GB/月"
+      }
+    ],
+    "sourceLevel": "用户资料与公开记录",
+    "lastChecked": "2026-09-19",
+    "verificationNote": "最低价格字段按常规月付口径；英文界面、协议兼容和原生 IP 地区应先行确认。"
+  },
+  {
+    "rank": 17,
+    "isPrimary": false,
+    "name": "可信云",
+    "slug": "kexin-cloud",
+    "inviteURL": "https://quanqiu.kosingaff.com/#/?code=NRG0tXKO",
+    "ctaText": "查看当前套餐与价格",
+    "featuredPlacements": [
+      "providers",
+      "recommendations"
+    ],
+    "trackingLabel": "kexin-cloud",
+    "coupon": "kxy88",
+    "couponNote": "以服务商当前官网结算页公示为准",
+    "priceFrom": "19.9 元/月",
+    "trafficFrom": "150GB/月",
+    "billingPeriod": "月付 / 年付",
+    "suitableFor": "备用节点、流媒体解锁及多协议客户端测试",
+    "summary": "强调无日志隐私审计与金融级加密隧道传输。所有套餐与节点可用率请以官方结算页实时状态为准。",
+    "packages": [
+      {
+        "name": "普及版",
+        "price": "19.9 元/月",
+        "traffic": "150GB/月"
+      },
+      {
+        "name": "旗舰版",
+        "price": "38 元/月",
+        "traffic": "320GB/月"
+      }
+    ],
+    "sourceLevel": "用户资料与公开记录",
+    "lastChecked": "2026-09-19",
+    "verificationNote": "建议购买前核对结算页可用节点及退款政策"
+  },
+  {
+    "rank": 18,
+    "isPrimary": false,
+    "name": "浪网 WaveNet",
+    "slug": "wavenet",
+    "inviteURL": "https://langwang.wavenetaff.com/#/?code=pYe3kzd4",
+    "ctaText": "查看当前套餐与价格",
+    "featuredPlacements": [
+      "providers",
+      "recommendations"
+    ],
+    "trackingLabel": "wavenet",
+    "coupon": "lw88",
+    "couponNote": "结算输入 lw88 享专属折扣",
+    "priceFrom": "22 元/月",
+    "trafficFrom": "130GB/月",
+    "billingPeriod": "月付 / 年付",
+    "suitableFor": "备用节点、流媒体解锁及多协议客户端测试",
+    "summary": "海量亚太节点覆盖，适合TikTok与跨境电商多店运营。所有套餐与节点可用率请以官方结算页实时状态为准。",
+    "packages": [
+      {
+        "name": "标准版",
+        "price": "22 元/月",
+        "traffic": "130GB/月"
+      },
+      {
+        "name": "尊享版",
+        "price": "42 元/月",
+        "traffic": "280GB/月"
+      }
+    ],
+    "sourceLevel": "用户资料与公开记录",
+    "lastChecked": "2026-09-19",
+    "verificationNote": "建议购买前核对结算页可用节点及退款政策"
+  },
+  {
+    "rank": 19,
+    "isPrimary": false,
+    "name": "梯子云 LadderCloud",
+    "slug": "laddercloud",
+    "inviteURL": "https://tiziyun3.ladderaff.com/#/?code=wI00rGj2",
+    "ctaText": "查看当前套餐与价格",
+    "featuredPlacements": [
+      "providers",
+      "recommendations"
+    ],
+    "trackingLabel": "laddercloud",
+    "coupon": "tzy88",
+    "couponNote": "结算输入 tiziyun 享专属折扣",
+    "priceFrom": "17.5 元/月",
+    "trafficFrom": "110GB/月",
+    "billingPeriod": "月付 / 年付",
+    "suitableFor": "备用节点、流媒体解锁及多协议客户端测试",
+    "summary": "老牌多线BGP节点网络，节点冗余度高故障切换迅速。所有套餐与节点可用率请以官方结算页实时状态为准。",
+    "packages": [
+      {
+        "name": "入门版",
+        "price": "17.5 元/月",
+        "traffic": "110GB/月"
+      },
+      {
+        "name": "高速版",
+        "price": "33 元/月",
+        "traffic": "240GB/月"
+      }
+    ],
+    "sourceLevel": "用户资料与公开记录",
+    "lastChecked": "2026-09-19",
+    "verificationNote": "建议购买前核对结算页可用节点及退款政策"
+  },
+  {
+    "rank": 20,
+    "isPrimary": false,
+    "name": "灵动云",
+    "slug": "lingdong-cloud",
+    "inviteURL": "https://lingdongyun.lingdongaff.com/#/?code=ibHQOYGt",
+    "ctaText": "查看当前套餐与价格",
+    "featuredPlacements": [
+      "providers",
+      "recommendations"
+    ],
+    "trackingLabel": "lingdong-cloud",
+    "coupon": "ld88",
+    "couponNote": "结算输入优惠码享专属折扣",
+    "priceFrom": "20 元/月",
+    "trafficFrom": "100GB/月",
+    "billingPeriod": "月付 / 年付",
+    "suitableFor": "新版 VLESS 协议、港台日新美常用节点覆盖与 4K 影音顺畅播放",
+    "summary": "全线采用较新的 VLESS 协议，覆盖香港、台湾、日本、新加坡和美国等常用地区；晚高峰观看 YouTube 4K 视频依然顺畅，适合看重节点覆盖与影音体验的用户。",
+    "packages": [
+      {
+        "name": "拂风版",
+        "price": "20 元/月 (204元/年)",
+        "traffic": "100GB/月"
+      },
+      {
+        "name": "驭浪版",
+        "price": "50 元/月 (510元/年)",
+        "traffic": "300GB/月"
+      },
+      {
+        "name": "破晓版",
+        "price": "100 元/月 (1020元/年)",
+        "traffic": "700GB/月"
+      },
+      {
+        "name": "凌霄版",
+        "price": "180 元/月 (1836元/年)",
+        "traffic": "1.5TB/月"
+      },
+      {
+        "name": "年付低频版",
+        "price": "99 元/年",
+        "traffic": "70GB/年"
+      },
+      {
+        "name": "闲云一次性",
+        "price": "199 元",
+        "traffic": "150GB 不限时"
+      },
+      {
+        "name": "惊云一次性",
+        "price": "499 元",
+        "traffic": "400GB 不限时"
+      },
+      {
+        "name": "飞云一次性",
+        "price": "899 元",
+        "traffic": "800GB 不限时"
+      }
+    ],
+    "sourceLevel": "用户资料与公开记录",
+    "lastChecked": "2026-09-19",
+    "verificationNote": "结算时输入 ld88；实际折扣、适用套餐与有效期以结算页为准。"
+  },
+  {
+    "rank": 21,
+    "isPrimary": false,
+    "name": "隐形人",
+    "slug": "yinxingren",
+    "inviteURL": "https://yinxingren1.invisibleaff.com/#/?code=ISH1y2IF",
+    "ctaText": "查看当前套餐与价格",
+    "featuredPlacements": [
+      "providers",
+      "recommendations"
+    ],
+    "trackingLabel": "yinxingren",
+    "coupon": "yxr888",
+    "couponNote": "新户专享折扣",
+    "priceFrom": "24 元/月",
+    "trafficFrom": "144GB/月",
+    "billingPeriod": "月付 / 年付",
+    "suitableFor": "新加坡团队运营、纯专线 VLESS 架构、8K 极速与灵活随用随续",
+    "summary": "由新加坡团队打造，采用全线纯专线与 VLESS 协议；强调 8K 视频快速加载，以及 AI 和流媒体原生解锁。套餐可随用随续，适合关注专线质量与续费灵活性的用户。",
+    "packages": [
+      {
+        "name": "白银纪元",
+        "price": "24 元/月",
+        "traffic": "144GB/月"
+      },
+      {
+        "name": "黄金序列",
+        "price": "48 元/月",
+        "traffic": "360GB/月"
+      },
+      {
+        "name": "铂金至臻",
+        "price": "105 元/月",
+        "traffic": "750GB/月"
+      },
+      {
+        "name": "钻石穹顶",
+        "price": "185 元/月",
+        "traffic": "1600GB/月"
+      },
+      {
+        "name": "星耀风暴年付",
+        "price": "109 元/年",
+        "traffic": "80GB/年"
+      },
+      {
+        "name": "一次性160G",
+        "price": "229 元",
+        "traffic": "160GB 不限时"
+      },
+      {
+        "name": "一次性420G",
+        "price": "549 元",
+        "traffic": "420GB 不限时"
+      },
+      {
+        "name": "一次性1000G",
+        "price": "1199 元",
+        "traffic": "1000GB 不限时"
+      }
+    ],
+    "sourceLevel": "用户资料与公开记录",
+    "lastChecked": "2026-09-19",
+    "verificationNote": "新用户结算时输入 yxr888；实际折扣、适用套餐与有效期以结算页为准。"
+  },
+  {
+    "rank": 22,
+    "isPrimary": false,
+    "name": "FlyV 飞V",
+    "slug": "flyv",
+    "inviteURL": "https://feiv289.flyvaff.com/#/?code=qQCT0BeY",
+    "ctaText": "查看当前套餐与价格",
+    "featuredPlacements": [
+      "providers",
+      "recommendations"
+    ],
+    "trackingLabel": "flyv",
+    "coupon": "fly20",
+    "couponNote": "结算输入享专属优惠",
+    "priceFrom": "25 元/月",
+    "trafficFrom": "150GB/月",
+    "billingPeriod": "月付 / 年付",
+    "suitableFor": "全专线架构、全节点 1x 计费、不限速不限设备多端影音",
+    "summary": "采用全线专线架构，所有节点按 1× 流量计费；支持 4K/8K 流媒体以及 ChatGPT 等 AI 工具，并强调不限速、不限制设备数量，适合多设备和高码率影音场景。",
+    "packages": [
+      {
+        "name": "年付版",
+        "price": "96 元/年 (折合 8元/月)",
+        "traffic": "60GB/月"
+      },
+      {
+        "name": "Lite 月付",
+        "price": "25 元/月",
+        "traffic": "150GB/月"
+      },
+      {
+        "name": "Plus 月付",
+        "price": "45 元/月",
+        "traffic": "300GB/月"
+      },
+      {
+        "name": "Blaze 月付",
+        "price": "85 元/月",
+        "traffic": "600GB/月"
+      },
+      {
+        "name": "Nova 月付",
+        "price": "150 元/月",
+        "traffic": "1000GB/月"
+      },
+      {
+        "name": "一次性流量包",
+        "price": "100 元",
+        "traffic": "100GB 不限时"
+      }
+    ],
+    "sourceLevel": "用户资料与公开记录",
+    "lastChecked": "2026-09-19",
+    "verificationNote": "结算时输入 fly20；实际折扣、适用套餐与有效期以结算页为准。"
+  },
+  {
+    "rank": 23,
+    "isPrimary": false,
+    "name": "无忧链接",
+    "slug": "wuyou-link",
+    "inviteURL": "https://wep01.worryfreeaff.com/#/?code=fOCJz3E2",
+    "ctaText": "查看当前套餐与价格",
+    "featuredPlacements": [
+      "providers",
+      "recommendations"
+    ],
+    "trackingLabel": "wuyou-link",
+    "coupon": "wylj88",
+    "couponNote": "以服务商当前官网结算页公示为准",
+    "priceFrom": "18.8 元/月",
+    "trafficFrom": "120GB/月",
+    "billingPeriod": "月付 / 年付",
+    "suitableFor": "备用节点、流媒体解锁及多协议客户端测试",
+    "summary": "新手即开即用零门槛，支持客服远程协助导入配置。所有套餐与节点可用率请以官方结算页实时状态为准。",
+    "packages": [
+      {
+        "name": "轻量版",
+        "price": "18.8 元/月",
+        "traffic": "120GB/月"
+      },
+      {
+        "name": "畅享版",
+        "price": "35 元/月",
+        "traffic": "250GB/月"
+      }
+    ],
+    "sourceLevel": "用户资料与公开记录",
+    "lastChecked": "2026-09-19",
+    "verificationNote": "建议购买前核对结算页可用节点及退款政策"
+  },
+  {
+    "rank": 24,
+    "isPrimary": false,
+    "name": "灵猫网络 Civet",
+    "slug": "civet",
+    "inviteURL": "https://vip02.civetaff.com/#/?code=MLVZXxQj",
+    "ctaText": "查看当前套餐与价格",
+    "featuredPlacements": [
+      "providers",
+      "recommendations"
+    ],
+    "trackingLabel": "civet",
+    "coupon": "lmwl88",
+    "couponNote": "以服务商当前官网结算页公示为准",
+    "priceFrom": "85 元/年",
+    "trafficFrom": "45GB (年付小包)",
+    "billingPeriod": "月付 / 年付",
+    "suitableFor": "IPLC 专线、1倍流量不限设备与通用订阅阶梯",
+    "summary": "主打 IPLC、1 倍流量、不限设备与通用订阅，覆盖从年付小包到月付 300GB 的阶梯。适合多设备轻量至中度使用的用户。",
+    "packages": [
+      {
+        "name": "年付小包",
+        "price": "85 元/年",
+        "traffic": "45GB"
+      },
+      {
+        "name": "Small 月付",
+        "price": "25 元/月 (195元/年)",
+        "traffic": "150GB/月"
+      },
+      {
+        "name": "Big 月付",
+        "price": "45 元/月 (295元/年)",
+        "traffic": "300GB/月"
+      },
+      {
+        "name": "Small 季付",
+        "price": "65 元/季",
+        "traffic": "150GB/季"
+      },
+      {
+        "name": "Big 季付",
+        "price": "125 元/季",
+        "traffic": "300GB/季"
+      }
+    ],
+    "sourceLevel": "用户资料与公开记录",
+    "lastChecked": "2026-09-19",
+    "verificationNote": "付款币种、订阅格式、流量重置、设备并发与退款规则须在结算页或客服处确认。"
+  },
+  {
+    "rank": 25,
+    "isPrimary": false,
+    "name": "闪跃 FlashLeap",
+    "slug": "flashleap",
+    "inviteURL": "https://vip02.flashleapaff.com/#/?code=bsjhVp9y",
+    "ctaText": "查看当前套餐与价格",
+    "featuredPlacements": [
+      "providers",
+      "recommendations"
+    ],
+    "trackingLabel": "flashleap",
+    "coupon": "sy88",
+    "couponNote": "以服务商当前官网结算页公示为准",
+    "priceFrom": "96 元/年 (折合 8元/月)",
+    "trafficFrom": "60GB/月",
+    "billingPeriod": "月付 / 年付",
+    "suitableFor": "IPLC 专线 1倍率、低延迟、通用订阅与定制客户端",
+    "summary": "公开资料将其描述为 IPLC 专线与 1 倍流量方案，兼顾低延迟、通用订阅和定制客户端。流媒体、原生 IP 与 AI 工具支持俱全，适合重视高峰表现但愿意先用月付验证的人。",
+    "packages": [
+      {
+        "name": "闪跃年付版",
+        "price": "96 元/年 (折合 8元/月)",
+        "traffic": "60GB/月"
+      },
+      {
+        "name": "闪动 Flicker",
+        "price": "24 元/月",
+        "traffic": "150GB/月"
+      },
+      {
+        "name": "飞跃 Leap",
+        "price": "44 元/月",
+        "traffic": "300GB/月"
+      },
+      {
+        "name": "瞬移 Teleport",
+        "price": "84 元/月",
+        "traffic": "600GB/月"
+      },
+      {
+        "name": "跃迁 Warp",
+        "price": "134 元/月",
+        "traffic": "1000GB/月"
+      }
+    ],
+    "sourceLevel": "用户资料与公开记录",
+    "lastChecked": "2026-09-19",
+    "verificationNote": "下单前核对当前折扣、设备数、流量周期与第三方客户端导入方式。"
+  },
+  {
+    "rank": 26,
+    "isPrimary": false,
+    "name": "Firefly",
+    "slug": "firefly",
+    "inviteURL": "https://vip02.fireflyaff.com/#/?code=lBPETX1d",
+    "ctaText": "查看当前套餐与价格",
+    "featuredPlacements": [
+      "providers",
+      "recommendations"
+    ],
+    "trackingLabel": "firefly",
+    "coupon": "ff88",
+    "couponNote": "以服务商当前官网结算页公示为准",
+    "priceFrom": "96 元/年 (折合 8元/月)",
+    "trafficFrom": "60GB/月",
+    "billingPeriod": "月付 / 年付",
+    "suitableFor": "IPLC 专线、VLESS 架构、原生 IP 与多设备高码率场景",
+    "summary": "定位偏向 IPLC 与 VLESS，并宣传原生 IP、不限设备和企业定制。套餐结构清晰，适合追求纯净落地 IP 与多设备稳定在线的用户。",
+    "packages": [
+      {
+        "name": "年付版",
+        "price": "96 元/年 (折合 8元/月)",
+        "traffic": "60GB/月"
+      },
+      {
+        "name": "Lite 月付",
+        "price": "25 元/月",
+        "traffic": "150GB/月"
+      },
+      {
+        "name": "Plus 月付",
+        "price": "45 元/月",
+        "traffic": "300GB/月"
+      },
+      {
+        "name": "Blaze 月付",
+        "price": "85 元/月",
+        "traffic": "600GB/月"
+      },
+      {
+        "name": "Nova 月付",
+        "price": "150 元/月",
+        "traffic": "1000GB/月"
+      },
+      {
+        "name": "一次性流量包",
+        "price": "100 元",
+        "traffic": "100GB 不限时"
+      }
+    ],
+    "sourceLevel": "用户资料与公开记录",
+    "lastChecked": "2026-09-19",
+    "verificationNote": "购买前确认所需客户端、设备并发和公平使用条款。"
+  },
+  {
+    "rank": 27,
+    "isPrimary": false,
+    "name": "跨界云",
+    "slug": "kuajie-cloud",
+    "inviteURL": "https://vip02.kuajieaff.com/#/?code=Qu0GQkhP",
+    "ctaText": "查看当前套餐与价格",
+    "featuredPlacements": [
+      "providers",
+      "recommendations"
+    ],
+    "trackingLabel": "kuajie-cloud",
+    "coupon": "kjy88",
+    "couponNote": "以服务商当前官网结算页公示为准",
+    "priceFrom": "20 元/月",
+    "trafficFrom": "120GB",
+    "billingPeriod": "月付 / 年付",
+    "suitableFor": "全网专线升级、通用订阅支持、120GB 至 1500GB 阶梯选择",
+    "summary": "核心信息是全网专线升级与通用订阅支持，套餐提供 120GB 至 1500GB 的四档流量选择。适合先从月付小档测试，按需升级大流量档位。",
+    "packages": [
+      {
+        "name": "轻云 Lite",
+        "price": "20 元/月 (192元/年)",
+        "traffic": "120GB/月"
+      },
+      {
+        "name": "跃云 Leap",
+        "price": "40 元/月 (384元/年)",
+        "traffic": "300GB/月"
+      },
+      {
+        "name": "凌云 Soar",
+        "price": "100 元/月 (960元/年)",
+        "traffic": "700GB/月"
+      },
+      {
+        "name": "无界 Infinity",
+        "price": "180 元/月 (1728元/年)",
+        "traffic": "1500GB/月"
+      }
+    ],
+    "sourceLevel": "用户资料与公开记录",
+    "lastChecked": "2026-09-19",
+    "verificationNote": "结算前应确认流量周期、设备并发、退款与当前专线规则。"
+  }
+]
