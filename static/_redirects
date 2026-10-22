@@ -1,0 +1,4 @@
+# Cloudflare Pages 301 Redirects for tiziview.co
+/categories/faq/airport-node-timeout-troubleshooting/ /categories/faq/airport-node-timeout-fix/ 301
+/categories/faq/airport-node-timeout-troubleshooting/* /categories/faq/airport-node-timeout-fix/ 301
+/categories/airport-reviews/ss-shadowsocks-stable-airport.md* /categories/airport-reviews/ss-shadowsocks-stable-airport/ 301

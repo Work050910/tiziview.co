@@ -68,7 +68,7 @@ def markdown_to_html(md_text):
             cells = [c.strip() for c in line.strip("|").split("|")]
             body_rows.append(cells)
         
-        table_html = "<table>\n<thead>\n<tr>"
+        table_html = '<div class="table-container">\n<table>\n<thead>\n<tr>'
         for c in header_cells:
             table_html += f"<th>{c}</th>"
         table_html += "</tr>\n</thead>\n<tbody>\n"
@@ -77,7 +77,7 @@ def markdown_to_html(md_text):
             for c in row:
                 table_html += f"<td>{c}</td>"
             table_html += "</tr>\n"
-        table_html += "</tbody>\n</table>\n"
+        table_html += "</tbody>\n</table>\n</div>\n"
         return table_html
 
     # Detect markdown tables
@@ -673,5 +673,23 @@ rss_xml.append("</rss>")
 
 with open(f"{PUBLIC_DIR}/index.xml", "w", encoding="utf-8") as f:
     f.write("\n".join(rss_xml))
+
+# 10. Generate 301 static fallback redirect pages
+redirect_dir = os.path.join(PUBLIC_DIR, "categories", "faq", "airport-node-timeout-troubleshooting")
+os.makedirs(redirect_dir, exist_ok=True)
+with open(os.path.join(redirect_dir, "index.html"), "w", encoding="utf-8") as f_red:
+    f_red.write("""<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="refresh" content="0; url=/categories/faq/airport-node-timeout-fix/">
+  <link rel="canonical" href="https://tiziview.co/categories/faq/airport-node-timeout-fix/">
+  <title>页面重定向中 - 梯子view</title>
+</head>
+<body>
+  <p>页面已迁移，正在跳转至：<a href="/categories/faq/airport-node-timeout-fix/">/categories/faq/airport-node-timeout-fix/</a></p>
+</body>
+</html>
+""")
 
 print(f"Build complete! Generated {len(all_sitemap_urls)} URLs into {PUBLIC_DIR}/ successfully.")

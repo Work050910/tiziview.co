@@ -51,6 +51,11 @@ a:hover {
   text-decoration: underline;
 }
 
+img, video, iframe {
+  max-width: 100%;
+  height: auto;
+}
+
 /* Layout Architecture */
 .app-container {
   display: flex;
@@ -882,8 +887,11 @@ body.sidebar-open {
     min-width: 650px !important;
   }
   .comparison-table-wrapper {
-    margin: 1rem -0.5rem !important;
-    padding: 0 0.5rem !important;
+    margin: 1rem 0 !important;
+    padding: 0 !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    box-sizing: border-box !important;
     overflow-x: auto !important;
     -webkit-overflow-scrolling: touch !important;
   }
@@ -1429,4 +1437,82 @@ body.sidebar-open {
     text-align: center;
   }
 }
+
+/* Responsive Table Container & Content Tables */
+.table-container {
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin: 1.5rem 0;
+}
+
+.table-container table,
+.article-body table {
+  width: 100%;
+  min-width: 520px;
+  border-collapse: collapse;
+  margin: 0;
+  background: #ffffff;
+  border: 1px solid #cbd5e1;
+  border-radius: 6px;
+}
+
+.table-container th,
+.table-container td,
+.article-body table th,
+.article-body table td {
+  border: 1px solid #cbd5e1;
+  padding: 8px 12px;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.table-container th,
+.article-body table th {
+  background: #f8fafc;
+  font-weight: 600;
+  color: #0f172a;
+}
+
+/* Pre & Code blocks responsive horizontal scroll without layout breaking */
+pre {
+  max-width: 100%;
+  box-sizing: border-box;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  background: #0f172a;
+  color: #f8fafc;
+  padding: 1rem;
+  border-radius: 8px;
+  margin: 1.25rem 0;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-size: 0.85rem;
+  line-height: 1.6;
+}
+
+pre code {
+  background: transparent !important;
+  color: inherit !important;
+  padding: 0 !important;
+  border-radius: 0 !important;
+  font-size: inherit !important;
+  white-space: pre;
+  word-break: normal;
+  word-wrap: normal;
+}
+
+code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-size: 0.88em;
+  background: #f1f5f9;
+  color: #0f172a;
+  padding: 0.15em 0.35em;
+  border-radius: 4px;
+  word-break: break-word;
+}
+
 

@@ -153,5 +153,5 @@ A：如果仅在突发断网时充当应急网关，且日常使用频次极低�
 - **灵活月付方案**：[2026按月付费便宜机场精选](/categories/airport-reviews/monthly-pay-cheap-airport/)，随时取消、无绑架平价专线。
 - **平价横向测评**：[十元内高性价比平价机场横向测速对比](/categories/airport-reviews/value-cheap-airport-comparison/)。
 - **机场跑路识别**：[机场跑路征兆识别与资金避险自救策略](/categories/faq/airport-running-away-defense-strategy/)。
-- **连接超时排查**：[节点全部显示超时（Timeout）自救指南](/categories/faq/airport-node-timeout-troubleshooting/)。
+- **连接超时排查**：[节点全部显示超时（Timeout）自救指南](/categories/faq/airport-node-timeout-fix/)。
 - **综合总榜参考**：[2026 最新机场推荐测速排行榜单](/categories/airport-reviews/2026-airport-recommendation-rankings/)。

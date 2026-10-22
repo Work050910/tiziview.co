@@ -46,7 +46,7 @@ CATEGORY_INTERLINKS = {
     "faq": """## 🔗 常见网络排障与安全防御实操索引
 
 若您在日常连接过程中遭遇其他报错或突发断网，可根据故障现象查阅以下针对性自救指南：
-- **超时与连接失败**：[节点全部显示超时（Timeout）自救指南](/categories/faq/airport-node-timeout-troubleshooting/)，快速定位链路故障源头。
+- **超时与连接失败**：[节点全部显示超时（Timeout）自救指南](/categories/faq/airport-node-timeout-fix/)，快速定位链路故障源头。
 - **订阅报错排查**：[机场订阅链接无法更新与 Network Error 深度修复](/categories/faq/subscription-link-update-failed-solution/)，恢复节点同步。
 - **数字资产与防盗**：[机场跑路征兆识别与资金避险自救策略](/categories/faq/airport-running-away-defense-strategy/) 及 [订阅链接防泄漏必备常识](/categories/faq/airport-subscription-security-leak-prevention/)。
 - **隐私与 DNS 泄漏**：[客户端 TUN 模式防 DNS 泄漏实战](/categories/faq/client-tun-mode-dns-leak-prevention/) 及 [免费公开节点黑客蜜罐风险揭秘](/categories/faq/free-nodes-security-privacy-risks/)。
@@ -79,7 +79,7 @@ AIRPORT_REVIEW_INTERLINKS = {
 - **灵活月付方案**：[2026按月付费便宜机场精选](/categories/airport-reviews/monthly-pay-cheap-airport/)，随时取消、无绑架平价专线。
 - **平价横向测评**：[十元内高性价比平价机场横向测速对比](/categories/airport-reviews/value-cheap-airport-comparison/)。
 - **机场跑路识别**：[机场跑路征兆识别与资金避险自救策略](/categories/faq/airport-running-away-defense-strategy/)。
-- **连接超时排查**：[节点全部显示超时（Timeout）自救指南](/categories/faq/airport-node-timeout-troubleshooting/)。
+- **连接超时排查**：[节点全部显示超时（Timeout）自救指南](/categories/faq/airport-node-timeout-fix/)。
 - **综合总榜参考**：[2026 最新机场推荐测速排行榜单](/categories/airport-reviews/2026-airport-recommendation-rankings/)。""",
 
     "chatgpt-native-ip-airport.md": """## 🔗 原生住宅 IP 与风控规避进阶索引
@@ -113,8 +113,8 @@ AIRPORT_REVIEW_INTERLINKS = {
 
 为了在亚太网络环境中获取极致的端到端低延迟并杜绝游戏联机丢包，推荐延伸阅读：
 - **物理光纤专线**：[2026高品质IEPL物理专线机场推荐](/categories/airport-reviews/iepl-专线-airport-selection/)，晚高峰零丢包与低抖动。
-- **经典轻量协议**：[Shadowsocks老牌极简协议机场推荐](/categories/airport-reviews/ss-shadowsocks-stable-airport.md -> /categories/airport-reviews/ss-shadowsocks-stable-airport/)，极低系统开销。
-- **超时快速排查**：[节点全部显示超时（Timeout）自救指南](/categories/faq/airport-node-timeout-troubleshooting/)。
+- **经典轻量协议**：[Shadowsocks老牌极简协议机场推荐](/categories/airport-reviews/ss-shadowsocks-stable-airport/)，极低系统开销。
+- **超时快速排查**：[节点全部显示超时（Timeout）自救指南](/categories/faq/airport-node-timeout-fix/)。
 - **虚拟网卡游戏代理**：[Clash Verge Rev TUN 模式全局网络接管教程](/categories/windows/clash-verge-rev-tun-mode-setup/)。
 - **核心机场总榜**：[2026 最新优质机场推荐测速总榜](/categories/airport-reviews/2026-airport-recommendation-rankings/)。""",
 
@@ -160,7 +160,7 @@ AIRPORT_REVIEW_INTERLINKS = {
 - **现代伪装协议**：[Trojan深度伪装协议机场推荐](/categories/airport-reviews/trojan-protocol-stable-nodes/)，对比标准 HTTPS 伪装性能。
 - **亚太低延迟节点**：[香港日本低延迟直连节点机场推荐](/categories/airport-reviews/hong-kong-japan-low-latency-nodes/)，体验极速交互。
 - **极简原生客户端**：[Sing-box Windows 客户端配置规则解析](/categories/windows/sing-box-windows-client-guide/) 与 [Mac Sing-box 教程](/categories/mac/sing-box-mac-tutorial/)。
-- **连接超时排查**：[节点全部显示超时（Timeout）自救指南](/categories/faq/airport-node-timeout-troubleshooting/)。
+- **连接超时排查**：[节点全部显示超时（Timeout）自救指南](/categories/faq/airport-node-timeout-fix/)。
 - **核心机场总榜**：[2026 最新优质机场推荐测速总榜](/categories/airport-reviews/2026-airport-recommendation-rankings/)。""",
 
     "trojan-protocol-stable-nodes.md": """## 🔗 高伪装传输与抗审查体系索引

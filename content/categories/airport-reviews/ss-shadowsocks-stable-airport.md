@@ -153,5 +153,5 @@ A：老旧设备硬件性能有限，运行复杂的解密运算容易发热降�
 - **现代伪装协议**：[Trojan深度伪装协议机场推荐](/categories/airport-reviews/trojan-protocol-stable-nodes/)，对比标准 HTTPS 伪装性能。
 - **亚太低延迟节点**：[香港日本低延迟直连节点机场推荐](/categories/airport-reviews/hong-kong-japan-low-latency-nodes/)，体验极速交互。
 - **极简原生客户端**：[Sing-box Windows 客户端配置规则解析](/categories/windows/sing-box-windows-client-guide/) 与 [Mac Sing-box 教程](/categories/mac/sing-box-mac-tutorial/)。
-- **连接超时排查**：[节点全部显示超时（Timeout）自救指南](/categories/faq/airport-node-timeout-troubleshooting/)。
+- **连接超时排查**：[节点全部显示超时（Timeout）自救指南](/categories/faq/airport-node-timeout-fix/)。
 - **核心机场总榜**：[2026 最新优质机场推荐测速总榜](/categories/airport-reviews/2026-airport-recommendation-rankings/)。

@@ -149,7 +149,7 @@ A：TUN 模式在系统底层创建了一个虚拟网络驱动，将全系统所
 ## 🔗 常见网络排障与安全防御实操索引
 
 若您在日常连接过程中遭遇其他报错或突发断网，可根据故障现象查阅以下针对性自救指南：
-- **超时与连接失败**：[节点全部显示超时（Timeout）自救指南](/categories/faq/airport-node-timeout-troubleshooting/)，快速定位链路故障源头。
+- **超时与连接失败**：[节点全部显示超时（Timeout）自救指南](/categories/faq/airport-node-timeout-fix/)，快速定位链路故障源头。
 - **订阅报错排查**：[机场订阅链接无法更新与 Network Error 深度修复](/categories/faq/subscription-link-update-failed-solution/)，恢复节点同步。
 - **数字资产与防盗**：[机场跑路征兆识别与资金避险自救策略](/categories/faq/airport-running-away-defense-strategy/) 及 [订阅链接防泄漏必备常识](/categories/faq/airport-subscription-security-leak-prevention/)。
 - **隐私与 DNS 泄漏**：[客户端 TUN 模式防 DNS 泄漏实战](/categories/faq/client-tun-mode-dns-leak-prevention/) 及 [免费公开节点黑客蜜罐风险揭秘](/categories/faq/free-nodes-security-privacy-risks/)。

@@ -151,7 +151,7 @@ A：搭载优质 IEPL 专线的低延迟节点完全可以媲美甚至超越部�
 
 为了在亚太网络环境中获取极致的端到端低延迟并杜绝游戏联机丢包，推荐延伸阅读：
 - **物理光纤专线**：[2026高品质IEPL物理专线机场推荐](/categories/airport-reviews/iepl-专线-airport-selection/)，晚高峰零丢包与低抖动。
-- **经典轻量协议**：[Shadowsocks老牌极简协议机场推荐](/categories/airport-reviews/ss-shadowsocks-stable-airport.md -> /categories/airport-reviews/ss-shadowsocks-stable-airport/)，极低系统开销。
-- **超时快速排查**：[节点全部显示超时（Timeout）自救指南](/categories/faq/airport-node-timeout-troubleshooting/)。
+- **经典轻量协议**：[Shadowsocks老牌极简协议机场推荐](/categories/airport-reviews/ss-shadowsocks-stable-airport/)，极低系统开销。
+- **超时快速排查**：[节点全部显示超时（Timeout）自救指南](/categories/faq/airport-node-timeout-fix/)。
 - **虚拟网卡游戏代理**：[Clash Verge Rev TUN 模式全局网络接管教程](/categories/windows/clash-verge-rev-tun-mode-setup/)。
 - **核心机场总榜**：[2026 最新优质机场推荐测速总榜](/categories/airport-reviews/2026-airport-recommendation-rankings/)。
