@@ -3,7 +3,7 @@ import http.server
 import socketserver
 import os
 
-PORT = 1313
+PORT = 9090
 DIRECTORY = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "public")
 DIRECTORY = os.path.abspath(DIRECTORY)
 
@@ -21,5 +21,5 @@ class NoCacheHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
 if __name__ == '__main__':
     socketserver.TCPServer.allow_reuse_address = True
     with socketserver.TCPServer(("0.0.0.0", PORT), NoCacheHTTPRequestHandler) as httpd:
-        print(f"Serving {DIRECTORY} on http://localhost:{PORT} and http://127.0.0.1:{PORT} (No-Cache enabled)...")
+        print(f"Serving {DIRECTORY} on http://localhost:{PORT} and http://127.0.0.1:{PORT} (No-Cache enabled)...", flush=True)
         httpd.serve_forever()
